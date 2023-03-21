@@ -4,10 +4,10 @@ This program uses Mediapipe and OpenCV libraries to detect facial landmarks and 
 
 ## Prerequisites
 
-Python 3.x
-OpenCV
-Mediapipe
-PyAutoGUI
+-Python 3.x
+-OpenCV
+-Mediapipe
+-PyAutoGUI
 
 ## Installations
 
