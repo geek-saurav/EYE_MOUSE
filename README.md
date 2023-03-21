@@ -34,8 +34,9 @@ py main.py
 
 ## License
 
+This project is licensed under the MIT License - see the LICENSE file for details
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Acknowledgments
 
-This project was inspired by Murtaza's Workshop - Robotics and AI(https://www.youtube.com/channel/UCYUjYU5FveRAscQ8V21w81A) and their tutorial on Virtual Controlled Mouse using Mediapipe and OpenCV.
+This project was inspired by [Murtaza's Workshop - Robotics and AI](https://www.youtube.com/channel/UCYUjYU5FveRAscQ8V21w81A) and their tutorial on Virtual Controlled Mouse using Mediapipe and OpenCV.
